@@ -1,6 +1,6 @@
 # README
 
-:brazil:
+🇧🇷🇧🇷
 <p>Essa aqui é uma aplicação que criei a algum tempo quando tava aprendendo JavaScript</p>
 
 :us:
@@ -13,7 +13,7 @@
 - Aumentar e diminuir a quantidade de pizza
 - Escolher tamanho
 
-:us:
+🇺🇸🇺🇸
 - Responsive
 - Increase and decrease the amount of pizza
 - Choose size
